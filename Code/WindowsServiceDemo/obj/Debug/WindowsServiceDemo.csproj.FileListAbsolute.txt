@@ -1,0 +1,7 @@
+D:\Study\Code\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe.config
+D:\Study\Code\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe
+D:\Study\Code\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.pdb
+D:\Study\Code\WindowsServiceDemo\obj\Debug\WindowsServiceDemo.csproj.AssemblyReference.cache
+D:\Study\Code\WindowsServiceDemo\obj\Debug\WindowsServiceDemo.csproj.CoreCompileInputs.cache
+D:\Study\Code\WindowsServiceDemo\obj\Debug\WindowsServiceDemo.exe
+D:\Study\Code\WindowsServiceDemo\obj\Debug\WindowsServiceDemo.pdb

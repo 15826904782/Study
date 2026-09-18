@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Code\\WindowsServiceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A4F14-13D1-4797-83C0-EDA3FF740B15}|WindowsServiceDemo.csproj|d:\\study\\code\\windowsservicedemo\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A4F14-13D1-4797-83C0-EDA3FF740B15}|WindowsServiceDemo.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A4F14-13D1-4797-83C0-EDA3FF740B15}|WindowsServiceDemo.csproj|d:\\study\\code\\windowsservicedemo\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E69A4F14-13D1-4797-83C0-EDA3FF740B15}|WindowsServiceDemo.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A4F14-13D1-4797-83C0-EDA3FF740B15}|WindowsServiceDemo.csproj|d:\\study\\code\\windowsservicedemo\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A4F14-13D1-4797-83C0-EDA3FF740B15}|WindowsServiceDemo.csproj|solutionrelative:service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A4F14-13D1-4797-83C0-EDA3FF740B15}|WindowsServiceDemo.csproj|d:\\study\\code\\windowsservicedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A4F14-13D1-4797-83C0-EDA3FF740B15}|WindowsServiceDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\WindowsServiceDemo\\Service1.cs",
+              "RelativeDocumentMoniker": "Service1.cs",
+              "ToolTip": "D:\\Study\\Code\\WindowsServiceDemo\\Service1.cs",
+              "RelativeToolTip": "Service1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:00:18.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\WindowsServiceDemo\\Service1.Designer.cs",
+              "RelativeDocumentMoniker": "Service1.Designer.cs",
+              "ToolTip": "D:\\Study\\Code\\WindowsServiceDemo\\Service1.Designer.cs",
+              "RelativeToolTip": "Service1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:00:11.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\WindowsServiceDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study\\Code\\WindowsServiceDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T02:59:57.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Study\\Code\\WindowsServiceDemo\\Service1.cs",
+              "RelativeDocumentMoniker": "Service1.cs",
+              "ToolTip": "D:\\Study\\Code\\WindowsServiceDemo\\Service1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Service1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T02:59:48.304Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -26,7 +26,9 @@ namespace FirstWinForm
         private void Form1_Load(object sender, EventArgs e)
         {
             textEdit_input.Focus();
-            InitData();
+            textEdit1.Text = "11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111";
+
+            //InitData();
         }
 
 

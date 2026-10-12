@@ -31,10 +31,12 @@
             "id": "6e57044c60ad22c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "image",
+              "state": {
+                "file": "ElementPlusError_ [el-dialog] [Attribute] custom-class is about to be deprec_百度搜索_files/young_boy.png"
+              },
+              "icon": "lucide-image",
+              "title": "young_boy"
             }
           }
         ]
@@ -56,7 +58,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -166,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -176,6 +182,7 @@
   },
   "active": "6e57044c60ad22c3",
   "lastOpenFiles": [
+    "Linux命令行与shell脚本编程大全.第3版.pdf",
     "Welcome.md",
     "Vue学习.md",
     "C#/第一个笔记.md",
